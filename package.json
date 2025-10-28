@@ -13,6 +13,7 @@
     "@clerk/themes": "^2.2.55",
     "@prisma/client": "^6.11.1",
     "next": "16.0.0",
+    "openai": "^6.7.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
