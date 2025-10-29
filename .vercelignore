@@ -1,0 +1,2 @@
+# Ignore old generated Prisma files
+app/generated
